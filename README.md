@@ -3,13 +3,6 @@
 ## Introduction
 This web application uses machine learning to detect plant diseases from images and suggests appropriate remedies. Easily upload photos of your plants to get instant diagnosis and treatment recommendations.
 
-## Building
-Prequired Python3 (https://www.python.org/downloads/)
-
-![Screenshot 2024-07-29 030456](https://github.com/user-attachments/assets/7fa12deb-7cae-4ddd-b709-9e58545474a7)
-
-Copy the Url http://127.0.0.1:5000/ and run on your preferred browser
-
 ## Snapshots of Working Model
 
 ### Homepage
